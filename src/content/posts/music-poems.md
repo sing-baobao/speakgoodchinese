@@ -42,7 +42,7 @@ A musical sound is a specific pitch, produced by a key on the instrument (e.g., 
 
 Musical sounds are mathematically related. A set of related sounds forms a **scale**, and the position of each sound within that scale is its **scale degree** (1, 2, 3, 4, 5, 6, 7 or do-re-mi-fa-so-la-ti).
 
-Once a tonic (starting key) is selected, all musical relationships are governed by the scale set by that key. While a manuscript is played as keys on the instrument, what we actually hear and process is the underlying scale.
+Once a key note is selected, all musical relationships are governed by the scale set by that key. While a manuscript is played as keys on the instrument, what we actually hear and process is the underlying scale.
 
 ### Scales and Modulation
 
@@ -131,7 +131,7 @@ Poetry recitation must honour this rhythm; reading words verbatim results in a b
 >夜来 | 风雨 | 声   | ——  Bar 3: peak emotional tension (_S2_)  
 >花落𝄐 | 知多 | 少   | ——  Bar 4: response / cadence (_S0_)
 
-Here, a **breadth mark 𝄐** has been added to the first word in the last phrase to create a brief moment of hesitation, a **caesura**, to build a dramatic high tension before its full release in the final line.
+Here, a **pause mark 𝄐** has been added to the first word in the last phrase to create a brief moment of hesitation to build a dramatic high tension before its full release in the final line.
 
 ### A Structural Rewrite of I Love This Land by Ai Qing
 
