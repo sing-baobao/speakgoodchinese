@@ -114,9 +114,9 @@ Melodic movement can be modulated using specific techniques:
 
 Harmonic shifts (_S0_ → _S1_ → _S2_) must align with strong beats.
 
-Passing notes, suspensions, and anticipations land on weak beats to build forward momentum.
+Passing notes, suspensions, and anticipations land on weak beats to build forward momentum. These are used for light function words (的, 了, 着).
 
-Appoggiaturas (bangs) land on strong beats to deliver a deliberate acoustic shock. Light function words (的, 了, 着) naturally belong to weak beats, driving momentum toward the accented words on the strong beats.
+Appoggiaturas (bangs) land on strong beats to deliver a deliberate acoustic shock. 
 
 By default, musical phrasing is organized into even-numbered bars (4, 8, or 16 bars). A standard 4-bar phrase splits neatly into a **2-bar call** and a **2-bar response**:
 
