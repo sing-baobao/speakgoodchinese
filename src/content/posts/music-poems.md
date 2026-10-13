@@ -84,7 +84,7 @@ Here is a structural rewrite of Ai Qing's _I Love This Land_. I have used two ch
 
 > 假若 | 我是 | 一只鸟， | ——  
 > 我必 | 嘶哑 | 歌唱： | ——  
-> 唱这 | 风雨 | 打击的 | 土地， | —— 
+> 唱这 | 风雨 | 打击的 | 土地， | ——   
 > 唱这 | 汹涌 | 悲愤的 | 河流…… | ——
 
 #### Stanza 2: Peak Tension & Suspension (_S2_ → _S3_)
