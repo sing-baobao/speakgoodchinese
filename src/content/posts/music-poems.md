@@ -1,6 +1,6 @@
 ---
 title: "不学诗，无以言：诗歌里的辞律"
-description: "Thinking aloud on the prosody in Chinese poetry."
+description: "Thinking aloud on the prosody in Chinese verse poetry."
 date: "2026-10-12"
 ---
 During the transition from classical to vernacular writing, there was much confusion on how to write Chinese poetry in the vernacular style. Many poems written in that era sound odd by today's standard.
@@ -16,9 +16,11 @@ During the transition from classical to vernacular writing, there was much confu
 >为什么我的眼里常含泪水？  
 >因为我对这土地爱得深沉……
 
-That sounds clunky. The words distort the everyday meaning of the words (what do you mean  by 汹涌着?) and are long and winding, uncharacteristic of the concise topic-comment structure of the Chinese language. Most critically, it lacks the phrasing that creates musicality. When set to music, as was attempted, it sounds flat to an honest ear.
+This is a prose poetry, a piece of writing that looks like standard prose, but with metaphor, imagery and rhythm to convey the emotion.
 
 [朗诵](https://www.youtube.com/watch?v=VPP4FsgfzXo)
+
+As a verse poetry, it sounds clunky. The words distort the everyday meaning of the words (what do you mean  by 汹涌着?) and are long and winding, uncharacteristic of the concise topic-comment structure of the Chinese language. Most critically, it lacks the phrasing that creates musicality. When set to music, as was attempted, it sounds flat to an honest ear.
 
 [演唱](https://www.youtube.com/watch?v=8NEvu7sDg4Y&list=RD8NEvu7sDg4Y&start_radio=1)
 
@@ -28,7 +30,7 @@ It has been about a century since then. Today, people simply write what they fee
 
 Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto standard harmonic progressions:
 
-# Jueju - A 4-Phrase Prose
+# Jueju - A 4-Phrase Verse
 
 - Baseline (_S0_) → Set-off (_S1_) → Peak Tension (_S2_) → Resolution (_S0_)
 
@@ -37,7 +39,7 @@ Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto st
 >夜来风雨声 Peak Tension (_S2_)  
 >花落知多少 Resolution (_S0_)  
 
-# Lüshi - An Extended Two-Stanza Prose 
+# Lüshi - An Extended Two-Stanza Verse 
 
 An extended progression allows for longer build-up, sustained tension, and multi-stanza continuation. An unresolved intermediate state (_S3_) forces a continuation into the second stanza:
 
@@ -78,7 +80,7 @@ Here, a **pause mark 𝄐** has been added to the first word in the last phrase 
 
 ### A Structural Rewrite of I Love This Land by Ai Qing
 
-Here is a structural rewrite of Ai Qing's _I Love This Land_. I have used two characters per beat (and occasionally three characters per beat, and sometimes one character per beat), 4 beats per bar (and occasionally 5 beats per bar), explicit cadence, and a clear harmonic progression: _S0_ → _S1_ → _S2_ → _S3_ → _S2_ → _S0_.
+Here is a rewrite of the prose to a verse. I have used two characters per beat (and occasionally three characters per beat, and sometimes one character per beat), 4 beats per bar (and occasionally 5 beats per bar), explicit cadence, and a clear harmonic progression: _S0_ → _S1_ → _S2_ → _S3_ → _S2_ → _S0_.
 
 #### Stanza 1: Initiation & Expansion (_S0_ → _S1_)
 
