@@ -39,7 +39,7 @@ Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto st
 
 # Lüshi - An Extended Two-Stanza Prose 
 
-Extended progressions allow for longer build-ups, sustained tension, or multi-stanza continuation. An unresolved intermediate state (_S3_) forces a continuation into the second stanza:
+An extended progression allows for longer build-up, sustained tension, and multi-stanza continuation. An unresolved intermediate state (_S3_) forces a continuation into the second stanza:
 
 
 >离离原上草 Baseline (_S0_)  
