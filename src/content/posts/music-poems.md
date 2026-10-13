@@ -28,11 +28,17 @@ It has been about a century since then. Today, people simply write what they fee
 
 ### Tang Poetry as Harmonic Progressions
 
-Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto standard harmonic progressions:
+Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto standard harmonic progressions. 
+
+- Baseline (_S0_) → Set-off (_S1_) → Peak Tension (_S2_) → Resolution (_S0_)
 
 # Jueju - A 4-Phrase Verse
 
-- Baseline (_S0_) → Set-off (_S1_) → Peak Tension (_S2_) → Resolution (_S0_)
+Each of the four phrases is in its own bar. 
+
+Bar 1-2 (Call): State initiation (S0 → S1)
+
+Bar 3-4 (Response): Peak tension and reset (S2 → S0)
 
 >春眠不觉晓 Baseline (_S0_)  
 >处处闻啼鸟 Set off (_S1_)  
@@ -42,7 +48,6 @@ Classical poetry writing, as epitomized by the Tang poetry, maps cleanly onto st
 # Lüshi - An Extended Two-Stanza Verse 
 
 An extended progression allows for longer build-up, sustained tension, and multi-stanza continuation. An unresolved intermediate state (_S3_) forces a continuation into the second stanza:
-
 
 >离离原上草 Baseline (_S0_)  
 >一岁一枯荣 Set off (_S1_)  
@@ -55,21 +60,11 @@ An extended progression allows for longer build-up, sustained tension, and multi
 
 ### Rhythm
 
-**Beats** can be strong or weak. They are grouped into bars with consistent rhythmic patterns (e.g., `Strong - Weak - Strong - Weak`).
+Rhythm establishes a piece's mood, remaining consistent until the emotion shifts. Each pattern contains a fixed number of beats, where accents signal the musical phrasing.
 
-Harmonic shifts (_S0_ → _S1_ → _S2_) must align with strong beats.
+Harmonic shifts (_S0_ → _S1_ → _S2_) must align with strong beats. Non-harmonic tones, such as passing notes, suspensions, and anticipations, land on weak beats to build forward momentum, ideal for light function words (的, 了, 着, 出, 中). Conversely, appoggiaturas (bangs) land on strong beats to deliver a deliberate emotional impact.
 
-Passing notes, suspensions, and anticipations land on weak beats to build forward momentum. These are used for light function words (的, 了, 着, 出, 中).
-
-Appoggiaturas (bangs) land on strong beats to deliver a deliberate shock. 
-
-By default, musical phrasing is organized into even-numbered bars (4, 8, or 16 bars). A standard 4-bar phrase splits neatly into a **2-bar call** and a **2-bar response**:
-
-- **Bar 1-2**: State initiation (_S0_ → _S1_)
-    
-- **Bar 3-4**: Peak tension and reset (_S2_ → _S0_)
-
-Poetry recitation must honour this rhythm; reading words verbatim results in a blocky, unnatural delivery. For example, the following naturally fits a 4/4 time (4 beats per bar, two subdivisions per beat):
+Poetry recitation follows this same rhythmic logic; reciting word-by-word results in a blocky, unnatural delivery. For example, the following naturally fits a standard 4/4 time (4 beats per bar, two subdivisions per beat):
 
 >春眠 | 不觉 | 晓   | ——  Bar 1: initiate idea; neutral tension (_S0_)  
 >处处 | 闻啼 | 鸟   | ——  Bar 2: expand idea; forward momentum (_S1_)  
