@@ -22,7 +22,7 @@ That sounds clunky. The words distort the everyday meaning of the words (what do
 
 [演唱](https://www.youtube.com/watch?v=8NEvu7sDg4Y&list=RD8NEvu7sDg4Y&start_radio=1)
 
-It has been more than a century since then. Today, people simply write what they feel, relying on AI to compose music and adjust the phrasing. And to understand how AI does it, we will have to revisit the part of the music theory that touches on phrasing and prosody.
+It has been about a century since then. Today, people simply write what they feel, relying on AI to compose music and adjust the phrasing. And to understand how AI does it, we will have to revisit the part of the music theory that touches on phrasing and prosody.
 
 ### Tang Poetry as Harmonic Progressions
 
