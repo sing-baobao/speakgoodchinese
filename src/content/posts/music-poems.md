@@ -18,9 +18,9 @@ During the transition from classical to vernacular writing, there was much confu
 
 That sounds clunky. The words distort the everyday meaning of the words (what do you mean  by 汹涌着?) and are long and winding, uncharacteristic of the concise topic-comment structure of the Chinese language. Most critically, it lacks the phrasing that creates musicality. When set to music, as was attempted, it sounds flat to an honest ear.
 
-[朗诵](https://www.youtube.com/watch?v=8NEvu7sDg4Y&list=RD8NEvu7sDg4Y&start_radio=1)
+[朗诵](https://www.youtube.com/watch?v=VPP4FsgfzXo)
 
-[演唱](https://www.youtube.com/watch?v=VPP4FsgfzXo)
+[演唱](https://www.youtube.com/watch?v=8NEvu7sDg4Y&list=RD8NEvu7sDg4Y&start_radio=1)
 
 It has been more than a century since then. Today, people simply write what they feel, relying on AI to compose music and adjust the phrasing. And to understand how AI does it, we will have to revisit the part of the music theory that touches on phrasing and prosody.
 
