@@ -95,3 +95,5 @@ Here is a rewrite of the prose to a verse. I have used two characters per beat (
 
 > 问我 | 眼中 | 何以 | 含泪？ | ——  
 > 因我𝄐 | 爱这𝄐 | 土地𝄐 | 深𝄐——  | 沉𝄐。——  
+
+[AI歌曲](https://www.mureka.ai/song-detail/166275493920769)
