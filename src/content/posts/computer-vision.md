@@ -1,7 +1,7 @@
 ---
 title: "电脑视觉的应用架构"
 description: "Application framework of computer vision."
-date: "2026-10-02"
+date: "2026-10-30"
 ---
 
 Vision-Language Models (VLMs) like Qwen-VL have been avilable since 2024. Together with real-time perceptive AI models like YOLO and MediaPipe, a hybrid pipeline with three layers could work in tandem:
