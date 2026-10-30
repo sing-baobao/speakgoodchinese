@@ -6,7 +6,7 @@ date: "2026-10-30"
 
 Vision-Language Models (VLMs) like Qwen-VL have been avilable since 2024. Together with real-time perceptive AI models like YOLO and MediaPipe, a hybrid pipeline with three layers could work in tandem:
 
-$$\text{Mobile (MediaPipe) / Edge (YOLO + TensorRT)} \longrightarrow \text{Alert / Event Trigger} \longrightarrow \text{Cloud/Server VLM (Qwen-VL)}$$
+Mobile (MediaPipe) / Edge (YOLO + TensorRT) ▶ Alert / Event Trigger ▶ Cloud/Server VLM (Qwen-VL)
 
 1. **Edge/Mobile (YOLO / MediaPipe):** Runs locally 24/7 at high frame rates to detect movement, skeletons, or spatial boundaries.
 2. **Trigger:** When a specific keypoint sequence or anomaly occurs (e.g., a sudden height drop indicating a fall), the edge device clips that short 5-second video buffer.
